@@ -1,14 +1,16 @@
 # flux-mill
 Flux Mill 3D Model
 
-![3D Render](https://i.snipboard.io/Mu9Uwr.jpg)
+![Gear flux 2073](https://user-images.githubusercontent.com/1371051/193433477-b22f2294-982e-4939-9665-8b9863d94e59.jpg)
 
 Flux Mill 3D Model based on Hypothesis of [Magnetic Wind-Mills](https://research.tue.nl/en/publications/essay-on-magnetic-wind-mills-part-i-analysis-and-design)
 
-View 3D Model at [sketchfab](https://sketchfab.com/3d-models/flux-mill-d1883fca0a57435c841ca032b7990fb4)
+View 3D Model at [sketchfab](https://sketchfab.com/3d-models/flux-mill-magnetic-wind-mill-e5ea704521ac4960827bc10e5f821857)
 
 Should you wish to build:
-Required parts for build. 3D Print 8 (2 big, 6 small) cogs/gears. 3D Print 8x big (left) cylinder and 48x small (right) cylinder.
+Required parts for build, 3D print:
+
+
 Each cylinder sits at 360/8 = 45 degree angles from the next cylinder.
 
 Cylinder | offsets
@@ -30,4 +32,3 @@ Parts:
  * [147x 10x3mm N52 Neodymium magnets](https://www.amazon.nl/gp/product/B07KW54QB1/)
  * [56x 2mm steel rods to hold everything in place.](https://www.amazon.nl/Creativ-58026-staaf-10-stuks/dp/B009ZSIOZQ/)
  * Some adhesive to stick magnets down.
- * A mounting frame. See hypothesis for measurements
