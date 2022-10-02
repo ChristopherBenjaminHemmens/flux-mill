@@ -10,6 +10,11 @@ View 3D Model at [sketchfab](https://sketchfab.com/3d-models/flux-mill-magnetic-
 Should you wish to build:
 Required parts for build, 3D print:
 
+ * [2x base](https://github.com/ChristopherBenjaminHemmens/flux-mill/blob/main/STL%20File/base.stl)
+ * [8x big cylinder](https://github.com/ChristopherBenjaminHemmens/flux-mill/blob/main/STL%20File/big-cylinder.stl)
+ * [2x big gear](https://github.com/ChristopherBenjaminHemmens/flux-mill/blob/main/STL%20File/big-gear.stl)
+ * [48x small cylinder](https://github.com/ChristopherBenjaminHemmens/flux-mill/blob/main/STL%20File/small-cylinder.stl)
+ * [6x small gear](https://github.com/ChristopherBenjaminHemmens/flux-mill/blob/main/STL%20File/small-gear.stl)
 
 Each cylinder sits at 360/8 = 45 degree angles from the next cylinder.
 
@@ -29,6 +34,6 @@ Middle axel is rotated at 5 degrees against outer axels and held in place using 
 Parts:
  * [7x 8mm diameter x at least 120mm steel rod for a shaft.](https://www.amazon.nl/gp/product/B07TS6Y2JB/)
  * [14x 8mm bore bearings](https://www.amazon.nl/DXLing-Aligning-Rhombus-Machinery-Conveyor/dp/B08CTWCT8Z/)
- * [147x 10x3mm N52 Neodymium magnets](https://www.amazon.nl/gp/product/B07KW54QB1/)
+ * [168x 10x3mm N52 Neodymium magnets](https://www.amazon.nl/gp/product/B07KW54QB1/)
  * [56x 2mm steel rods to hold everything in place.](https://www.amazon.nl/Creativ-58026-staaf-10-stuks/dp/B009ZSIOZQ/)
  * Some adhesive to stick magnets down.
