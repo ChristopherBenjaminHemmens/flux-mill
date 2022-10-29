@@ -37,5 +37,5 @@ Parts:
  * [168x 10x3mm N52 Neodymium magnets](https://www.amazon.nl/gp/product/B07KW54QB1/)
  * [56x 2mm steel rods to hold everything in place.](https://www.amazon.nl/Creativ-58026-staaf-10-stuks/dp/B009ZSIOZQ/)
  * 4x M8 (8mm bore) threaded rod roughy 250mm in length each + 16x nuts suited for the thread to hold and adjust base corners (Buy in your local hardware store)
- * 28x M5 (5mm bore) bolts of between 12 to 20mm in length + suited 38x suited nuts to screw down bearing  (Buy in your local hardware store)
+ * 28x M5 (5mm bore) bolts of between 12 to 20mm in length + suited 28x suited nuts to screw down bearing  (Buy in your local hardware store)
  * Some adhesive to stick magnets down. (Buy in your local hardware store)
