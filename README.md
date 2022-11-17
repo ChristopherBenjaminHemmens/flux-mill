@@ -21,9 +21,10 @@ Shelf Parts:
  * [14x 8mm bore bearings](https://www.amazon.nl/DXLing-Aligning-Rhombus-Machinery-Conveyor/dp/B08CTWCT8Z/)
  * [168x 10x3mm N52 Neodymium magnets](https://www.amazon.nl/gp/product/B07KW54QB1/)
  * [56x 2mm steel rods to hold everything in place.](https://www.amazon.nl/Creativ-58026-staaf-10-stuks/dp/B009ZSIOZQ/)
- * 4x M8 (8mm bore) threaded rod roughy 250mm in length each + 16x nuts suited for the thread to hold and adjust base corners (Buy in your local hardware store)
- * 28x M5 (5mm bore) bolts of between 12 to 20mm in length + 28x suited nuts to screw down bearing  (Buy in your local hardware store)
- * Some adhesive to stick magnets down. (Buy in your local hardware store)
+ * [4x M8 (8mm bore) threaded rod roughy 250mm in length each](https://www.amazon.nl/gp/product/B0842KCXL5/)
+ * [16x nuts suited for the thread to hold and adjust base corners](https://www.amazon.nl/gp/product/B0BFDJFB43/)
+ * [28x M5 (5mm bore) bolts of between 12 to 20mm in length + 28x suited nuts to screw down bearing](https://www.amazon.nl/zeskantbouten-roestvrij-Volledige-schroefdraadbevestiging-Zeskantschroef/dp/B07PPM7BCM/)
+ * [Some adhesive to stick magnets down.](https://www.amazon.nl/EPOXY-GLUE-GORILLA-Chemicals-Adhesive/dp/B00T68MA00/)
 
 Each cylinder sits at 360/8 = 45 degree angles from the next cylinder.
 
