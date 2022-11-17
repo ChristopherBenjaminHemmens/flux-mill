@@ -20,7 +20,7 @@ Shelf Parts:
  * [7x 8mm diameter x at least 120mm steel rod for a shaft.](https://www.amazon.nl/gp/product/B07TS6Y2JB/)
  * [14x 8mm bore bearings](https://www.amazon.nl/DXLing-Aligning-Rhombus-Machinery-Conveyor/dp/B08CTWCT8Z/)
  * [168x 10x3mm N52 Neodymium magnets](https://www.amazon.nl/gp/product/B07KW54QB1/)
- * [56x 2mm steel rods to hold everything in place.](https://www.amazon.nl/Creativ-58026-staaf-10-stuks/dp/B009ZSIOZQ/)
+ * [56x 2mm steel rods to hold cylinders in place.](https://www.amazon.nl/Creativ-58026-staaf-10-stuks/dp/B009ZSIOZQ/)
  * [4x M8 (8mm bore) threaded rod roughy 250mm in length each](https://www.amazon.nl/gp/product/B0842KCXL5/)
  * [16x M8 (8mm bore) nuts suited for the thread to hold and adjust base corners](https://www.amazon.nl/100-stuks-roestvrij-staal-zeskantmoeren/dp/B07Y3QVZSN/)
  * [28x M5 (5mm bore) bolts of between 12 to 20mm in length + 28x suited nuts to hold bearings](https://www.amazon.nl/zeskantbouten-roestvrij-Volledige-schroefdraadbevestiging-Zeskantschroef/dp/B07PPM7BCM/)
