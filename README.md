@@ -39,6 +39,6 @@ Cyl6 | 225 degrees
 Cyl7 | 270 degrees
 Cyl8 | 315 degrees
 
-Middle axel is rotated at 5 degrees against outer axels and held in place using the gears/cogs, see hypothesis.
+Center axel is rotated at 5 degrees against outer axels and held in place using the gears/cogs, see hypothesis.
 
 
